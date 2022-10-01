@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": "abcat0100000",
+      "name": "TV & Home Theater",
+      "image": "https://res.cloudinary.com/dcane9asx/image/upload/v1658804555/bestbuy_assets/television_vissgi.png",
+      "description": "Find the perfect screen for your entertainment space, including the new 4K Ultra HD TVs."
+    },
+    {
+      "id": "abcat0200000",
+      "name": "Audio",
+      "image": "https://res.cloudinary.com/dcane9asx/image/upload/v1658804556/bestbuy_assets/audio_yktb8y.png",
+      "description": "Listen at home or on the go with home theater systems, headphones, portable speakers and more."
+    },
+    {
+      "id": "abcat0300000",
+      "name": "Car Electronics & GPS",
+      "image": "https://res.cloudinary.com/dcane9asx/image/upload/v1658804558/bestbuy_assets/car_rc2mqx.png",
+      "description": "Check out the latest car electronics and GPS deals."
+    },
+    {
+      "id": "abcat0400000",
+      "name": "Cameras, Camcorders & Drones",
+      "image": "https://res.cloudinary.com/dcane9asx/image/upload/v1658804558/bestbuy_assets/camera_ukzq41.png",
+      "description": "Find the DSLR, point-and-shoot or mirrorless camera that's perfect for any shot, any location, any event."
+    },
+    {
+      "id": "abcat0500000",
+      "name": "Computers & Tablets",
+      "image": "https://res.cloudinary.com/dcane9asx/image/upload/v1658804552/bestbuy_assets/computer_wr8dec.png",
+      "description": "Go-anywhere devices in your choice of brands, operating systems and sizes."
+    },
+    {
+      "id": "abcat0600000",
+      "name": "Movies & Music",
+      "image": "https://res.cloudinary.com/dcane9asx/image/upload/v1658804552/bestbuy_assets/movie_pjvutq.png",
+      "description": "Whether you're a collector, or just looking for a copy of your favorite entertainment, find a great selection of classics and new releases."
+    },
+    {
+      "id": "abcat0700000",
+      "name": "Video Games",
+      "image": "https://res.cloudinary.com/dcane9asx/image/upload/v1658804559/bestbuy_assets/videogame_a0oryz.png",
+      "description": "Check out the latest video game deals, with hundred of options for you entertainment."
+    },
+    {
+      "id": "abcat0800000",
+      "name": "Cell Phones",
+      "image": "https://res.cloudinary.com/dcane9asx/image/upload/v1658804557/bestbuy_assets/cellphone_twptkb.png",
+      "description": "Check out the latest deals on cell phones."
+    },
+    {
+      "id": "abcat0900000",
+      "name": "Appliances",
+      "image": "https://res.cloudinary.com/dcane9asx/image/upload/v1658804555/bestbuy_assets/appliances_kmfwfx.png",
+      "description": "Find more great savings on appliance upgrades for your kitchen and laundry room."
+    }
+  ]
+}
