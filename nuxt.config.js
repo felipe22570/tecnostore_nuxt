@@ -19,6 +19,7 @@ export default {
   env: {
     API_KEY: process.env.API_KEY,
     FRONTEND_URL: process.env.FRONTEND_URL,
+    API_URL: process.env.API_URL,
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
